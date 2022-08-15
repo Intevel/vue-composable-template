@@ -18,8 +18,9 @@ The development is simple, you can find a sample composable in `./src/index.ts` 
 - [ ] Develop your composable.
 
 ## 🗂 Build with this template
+Made a package with this template? Open an issue and I'll put it in this list
 
-- [**example**](https://github.com/Intevel/)
+- [**vue-browser-notifications**](https://github.com/Intevel/vue-browser-notifications)
 
 ## 💚 Credits
 
